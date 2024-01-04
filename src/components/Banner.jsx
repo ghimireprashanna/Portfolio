@@ -24,16 +24,16 @@ const Banner = () => {
             <div className='flex mt-8 gap-2'>
                 <div className='flex items-center justify-center'>
                     <div className='flex space-x-2'>
-                        <a href='' className='text-fuchsia-600 hover:text-fuchsia-500 rounded-full glow p-2'>
+                        <a href='https://github.com/ghimireprashanna' className='text-fuchsia-600 hover:text-fuchsia-500 rounded-full glow p-2'>
                             <AiFillGithub className='text-[28px]'/>
                         </a>
-                        <a href='' className='text-fuchsia-600 hover:text-fuchsia-500 rounded-full glow p-2'>
+                        <a href='https://www.linkedin.com/in/prashanna-ghimire-878a171a2/' className='text-fuchsia-600 hover:text-fuchsia-500 rounded-full glow p-2'>
                             <FaLinkedinIn className='text-[28px]'/>
                         </a>
-                        <a href='' className='text-fuchsia-600 hover:text-fuchsia-500 rounded-full glow p-2'>
+                        <a href='https://twitter.com/PrashannaGhim16' className='text-fuchsia-600 hover:text-fuchsia-500 rounded-full glow p-2'>
                             <FiTwitter className='text-[28px]'/>
                         </a>
-                        <a href='' className='text-fuchsia-600 hover:text-fuchsia-500 rounded-full glow p-2'>
+                        <a href='https://www.instagram.com/ghimire.prashanna/?hl=en' className='text-fuchsia-600 hover:text-fuchsia-500 rounded-full glow p-2'>
                             <FaInstagram className='text-[28px]'/>
                         </a>
                     </div>

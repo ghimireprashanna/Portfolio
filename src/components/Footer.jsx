@@ -26,16 +26,16 @@ const Footer = () => {
         <div>
         <h2 className='text-[22px] font-semibold text-fuchsia-800 py-2 uppercase'>follow me</h2>
         <div className='flex space-x-4'>
-          <a href="" className='text-white hover:text-fuchsia-800 transition-all duration-150 ease-in-out'>
+          <a href="https://github.com/ghimireprashanna" className='text-white hover:text-fuchsia-800 transition-all duration-150 ease-in-out'>
             <FaGithub />
           </a>
-          <a href="" className='text-white hover:text-fuchsia-800 transition-all duration-150 ease-in-out'>
+          <a href="https://www.linkedin.com/in/prashanna-ghimire-878a171a2/" className='text-white hover:text-fuchsia-800 transition-all duration-150 ease-in-out'>
             <FaLinkedinIn />
           </a>
-          <a href="" className='text-white hover:text-fuchsia-800 transition-all duration-150 ease-in-out'>
+          <a href="https://twitter.com/PrashannaGhim16" className='text-white hover:text-fuchsia-800 transition-all duration-150 ease-in-out'>
             <FaTwitter />
           </a>
-          <a href="" className='text-white hover:text-fuchsia-800 transition-all duration-150 ease-in-out'>
+          <a href="https://www.instagram.com/ghimire.prashanna/?hl=en" className='text-white hover:text-fuchsia-800 transition-all duration-150 ease-in-out'>
             <FaInstagram />
           </a>
           
